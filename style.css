@@ -26,6 +26,7 @@ body{
     background-color: var(--vl-gray);
 }
 .row:last-child{
+    margin-top: 40px;
     align-items: center;
 }
 .col-12 h1:first-child{
